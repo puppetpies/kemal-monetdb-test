@@ -2,13 +2,16 @@
 
 Compile and run the server
 
+````
 make
 src/kemal-monetdb-test
 
 ## Installation / Dependencies
 
+````
 shards update
 
+```
 ## Usage
 
 Take a look at kemalcr.com for Kemal Examples
