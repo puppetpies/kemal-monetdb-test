@@ -8,7 +8,6 @@ src/kemal-monetdb-test
 
 ## Installation / Dependencies
 
-````
 shards update
 
 ```
