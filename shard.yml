@@ -1,0 +1,15 @@
+name: kemal-monetdb-test
+version: 0.1.0
+
+authors:
+  - Bri in The Sky <brianh6854@googlemail.com>
+
+development_dependencies:
+  kemal-monetdb:
+    github: puppetpies/kemal-monetdb
+    version: ">= 0.1.2"
+  kemal:
+    github: sdogruyol/kemal
+    version: ">= 0.12.0"
+
+license: MIT
