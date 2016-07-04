@@ -1,4 +1,4 @@
 all: test
 
 test:
-	crystal compile --release src/kemal-monetdb-test.cr
+	crystal build --release src/kemal-monetdb-test.cr
